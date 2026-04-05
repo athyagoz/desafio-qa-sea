@@ -9,7 +9,7 @@ Repositório do desafio técnico para a vaga de Analista de Teste.
   - `casos-de-teste.md` — Casos de teste detalhados
   - `bugs-reportados.md` — Bugs encontrados
   - `relatorio-final.md` — Relatório final
-- `evidencias/` — Prints e das evidências
+- `evidencias/` — Prints das evidências
 - `automacao/` — Scripts de testes automatizados
 
 ## Aplicação testada
