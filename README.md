@@ -53,5 +53,9 @@ python -m unittest test_selenium.py -v
 | test_03_persistencia_dados | Testa se dados são salvos corretamente |
 | test_04_navegacao_menu | Verifica navegação do menu lateral |
 
+## Observação
+
+Este projeto foi desenvolvido com foco em demonstrar habilidades em testes manuais e automação. Também foi aplicada uma estrutura inicial com Page Object Model visando boas práticas e evolução contínua.
+
 ## 👤 Candidato
 Alyson — Processo Seletivo SEA Tecnologia 2026
